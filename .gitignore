@@ -1,0 +1,13 @@
+__pycache__
+.idea/
+
+data/
+logs/
+pretrained/
+wandb/
+
+*.json
+*.sh
+*.zip
+
+
